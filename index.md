@@ -52,9 +52,7 @@ Connect with me on social media to stay updated on my latest work:
 - [Facebook](http://www.facebook.com/Nits874)
 - [GitHub](http://www.github.com/niteshchandra039)
 - [LinkedIn](http://www.linkedin.com/in/astro-nitesh)
-<!-- - [ResearchGate](http://www.researchgate.net/profile/Nitesh_Kumar)
-- [Google Scholar](http://scholar.google.com/citations?user=J9Z6Z6oAAAAJ&hl=en)
-- [ORCID](http://orcid.org/0000-0002-0002-0002) -->
+
 
 ---
 
