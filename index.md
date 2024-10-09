@@ -13,8 +13,34 @@ I am a Senior Research Fellow at the **Department of Physics and Astrophysics, U
 One of my notable projects involves using machine learning techniques to generate light curves of RR Lyrae stars. You can explore the project here:
 
 - [ANN Interpolator for RRab Star Light Curves](http://ann-interpolator.web.app/)
+- [Multiwavelength photometric study of RR Lyrae variables in the globular cluster NGC 5272 (Messier 3)](https://academic.oup.com/mnras/article/531/3/2976/7681976)
 
-For more information about my research, you can check my [CV](../Nitesh_CV.pdf).
+### Research Interests
+
+My research interests include:
+
+- Machine Learning Applications in Astronomy
+- Variable Stars (RR Lyrae, Cepheids)
+- Stellar Evolution and Pulsation
+- Time Series Analysis
+- Data Mining and Feature Engineering
+
+### Recent Publications
+
+Here are some of my recent publications:
+
+1. Nitesh Kumar, A. Bhardwaj, H. P. Singh, M. Rejkuba, M. Marconi, and P. Prugniel, “Multiwavelength photometric study of RR lyrae variables in the globular cluster NGC 5272 (Messier 3),” Monthly Notices of the Royal Astronomical Society, vol. 531, no. 3, pp. 2976–2997, May 2024, issn: 0035-8711. [doi:10.1093/mnras/stae1334](https://doi.org/10.1093/mnras/stae1334). 
+
+2. Nitesh Kumar, A. Bhardwaj, H. P. Singh, et al., “Predicting light curves of RR Lyrae variables using artificial neural network based interpolation of a grid of pulsation models,” Monthly Notices of the Royal Astronomical Society, vol. 522, no. 1, pp. 1504–1520, Mar. 2023, issn: 0035-8711.  [doi:10.1093/mnras/stad937](https://doi.org/10.1093/mnras/stad937).
+
+### Research Projects
+- Light Curve Generation of RR Lyrae Stars using Machine Learning
+- Classification of Variable Stars using Machine Learning
+- Time Series Analysis of RR Lyrae Stars
+- Spectral interpretation in the parameter space of a grid of stars using Machine Learning
+- Identification of new globular clusters in Milky way using Gaia DR3 data using Machine Learning
+
+
 
 ### Learn More
 
