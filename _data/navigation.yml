@@ -10,3 +10,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  # Custom navigation bar
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "Updates"
+    url: "/update/"
+  - title: "My CV"
+    url: "/Nitesh_CV.pdf"
