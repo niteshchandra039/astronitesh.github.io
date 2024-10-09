@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "Welcome to Nitesh Kumar's Research Homepage"
+title: "Nitesh Kumar"
 ---
 
 ## Welcome to My Research Page
