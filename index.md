@@ -6,7 +6,7 @@ title: "Nitesh Kumar"
 
 ## Welcome to My Research Page
 
-I am a Senior Research Fellow at the **Department of Physics and Astrophysics, University of Delhi**, specializing in **machine learning applications in astronomy**. My research focuses on leveraging machine learning algorithms, such as Artificial Neural Networks (ANN), Random Forests, and Decision Trees, for astronomical studies. Currently, I am working on **RR Lyrae variable stars**.
+I am Assistant Professor (Astrophysics) at the **Department of Physics, University of Petroleum and Energy Studies (UPES), Deharadun**. I was Senior Research Fellow at the **Department of Physics and Astrophysics, University of Delhi**, specializing in **machine learning applications in astronomy**. My research focuses on leveraging machine learning algorithms, such as Artificial Neural Networks (ANN), Random Forests, and Decision Trees, for astronomical studies. Currently, I am working on **RR Lyrae variable stars**.
 
 ### Current Research
 
@@ -40,9 +40,7 @@ Here are some of my recent publications:
 - Spectral interpretation in the parameter space of a grid of stars using Machine Learning
 - Identification of new globular clusters in Milky way using Gaia DR3 data using Machine Learning
 
-
-
-### Learn More
+### About Me
 
 To find out more about me, visit the [About](about.md) page, and to stay informed about my recent work and publications, head over to the [Updates](update.md) page.
 
@@ -53,6 +51,10 @@ Connect with me on social media to stay updated on my latest work:
 - [Twitter](http://www.twitter.com/astro_nitesh)
 - [Facebook](http://www.facebook.com/Nits874)
 - [GitHub](http://www.github.com/niteshchandra039)
+- [LinkedIn](http://www.linkedin.com/in/astro-nitesh)
+<!-- - [ResearchGate](http://www.researchgate.net/profile/Nitesh_Kumar)
+- [Google Scholar](http://scholar.google.com/citations?user=J9Z6Z6oAAAAJ&hl=en)
+- [ORCID](http://orcid.org/0000-0002-0002-0002) -->
 
 ---
 
