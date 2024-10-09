@@ -16,7 +16,7 @@ main:
     url: "/about/"
   - title: "Teaching"
     url: "/teaching/"
-  - title: "Updates"
+  - title: "Publications"
     url: "/update/"
   - title: "My CV"
     url: "/Nitesh_CV.pdf"
