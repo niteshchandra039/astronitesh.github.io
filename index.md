@@ -30,4 +30,4 @@ Connect with me on social media to stay updated on my latest work:
 
 ---
 
-{% include _includes/footer.html %}
+{% include footer.html %}
