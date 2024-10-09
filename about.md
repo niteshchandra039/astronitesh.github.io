@@ -31,7 +31,3 @@ Thank you for visiting my page and your interest in my research!
 
 Best regards,  
 Nitesh Kumar
-
----
-
-{% include footer.html %}
